@@ -3,8 +3,8 @@
 #############################################################
 # a2tm - Installer for a2tm Tool Manager (erlang version    #
 # Date: 24-10-2025                                          #
-# Author: asdo92                                            #
-# Contact: asdo92@duck.com                                  #
+# Author: dmesg00                                            #
+# Contact: dmesg00@duck.com                                  #
 #############################################################
 VERSION="0.1"
 M_DATE="241025"

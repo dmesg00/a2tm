@@ -3,8 +3,8 @@
 #############################################
 # a2tm - Uninstaller for a2tm Tool Manager  #
 # Date: 01-07-2022                          #
-# Author: asdo92                            #
-# Contact: asdo92@duck.com                  #
+# Author: dmesg00                            #
+# Contact: dmesg00@duck.com                  #
 #############################################
 VERSION="0.1"
 M_DATE="010722"
